@@ -1,5 +1,16 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
+---
+
+# What I learn
+
+- Component
+- Binding
+- Reactivity
+- Template Syntax
+- Apply Terminal CSS on Svelte
+- Event
+- Lifecycle
+- UI Animation
 ---
 
 # svelte app
